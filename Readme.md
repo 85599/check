@@ -6,7 +6,7 @@ There might be bugs, use the issue tracker if you find any.
 
 ## Introduction
 
-Ever wanted to make thousands of plat? Use [warframe.market](https://warframe.market) but need more features? So did I, so I made this. The Warframe.market Watcher is capable of keeping track of any user's sell/buy orders, checking if you were undercut, tracking all sales/bids for an item, and more!
+Ever wanted to make thousands of plat? Use warframe.market but need more features? So did I, so I made this. The Warframe.market Watcher is capable of keeping track of any user's sell/buy orders, checking if you were undercut, tracking all sales/bids for an item, and more!
 
 ## Features
 
